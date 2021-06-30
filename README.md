@@ -13,4 +13,5 @@ In order to practice Markdown, I create a repository to check view
 
 ```js
 Console.log("Hello World!");
+Console.log("Hello World!");
 ```
