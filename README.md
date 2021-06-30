@@ -10,3 +10,7 @@ In order to practice Markdown, I create a repository to check view
 >>子引言
 
     123456789
+
+```js
+Console.log("Hello World!");
+```
